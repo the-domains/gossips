@@ -1,7 +1,7 @@
 name: gossips
 favicon: null
-layout_spectrum: 0.7164273278322071
-typography_spectrum: 0.1339443272445351
+layout_spectrum: 0.97388
+typography_spectrum: 0.2688
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7155444861855358
+  brandStrength: 0.9375
   lightness: 0.924270604737103
   saturation: 0.11789852706715465
   rhythmicContrast: 0.450793678406626
