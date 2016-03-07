@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gossips]]></title>
         <description><![CDATA[gossips]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gossips/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 16:53:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 19:53:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gossips/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UX design]]></title>
+            <description><![CDATA[<article><h1>UX design</h1><h2>Our secrets uncovered:</h2><p>We can all recall a lousy experience with products and services we use in our daily lives. It’s just common, unfortunately. Let’s make a change - Give up the good and go for the great with us! We create an addictive, charismatic link between customer and company.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0bfefc5-c7fe-4f67-8953-da5affb67cb0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gossips/ux-design/index.html</link>
+            <guid isPermaLink="false">87196e4b-6126-410e-a4e4-0c465e6afa0b</guid>
+            <pubDate>Mon, 07 Mar 2016 19:51:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/556a893c-c74e-4d08-9824-946c19bfba18.jpg">]]></description>
-            <link>undefined4393f0fd-0dfa-4eac-98ec-c4815ad5be0b/index.html</link>
+            <link>https://thegrid.ai/gossips/4393f0fd-0dfa-4eac-98ec-c4815ad5be0b/index.html</link>
             <guid isPermaLink="false">4393f0fd-0dfa-4eac-98ec-c4815ad5be0b</guid>
             <pubDate>Mon, 07 Mar 2016 16:52:57 GMT</pubDate>
         </item>
